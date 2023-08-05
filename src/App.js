@@ -5,7 +5,7 @@ import App from './Components/App';
 function AppContent() {
   return (
     
-     <div><App></App></div>
+     <div><App /></div>
   
   );
 }

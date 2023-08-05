@@ -5,4 +5,4 @@ import AppContent from "./App"
 
 
 
-ReactDOM.render(<AppContent/>,document.getElementById("root"))
+ReactDOM.render(<AppContent />,document.getElementById("root"))

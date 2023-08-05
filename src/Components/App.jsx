@@ -6,9 +6,9 @@ import Footer from "./Footer";
 
 function App (){
     return <div>
-        <Header></Header>
-        <Note></Note>
-        <Footer></Footer>
+        <Header />
+        <Note />
+        <Footer />
     
 
     </div>
