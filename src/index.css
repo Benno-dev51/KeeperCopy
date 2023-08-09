@@ -5,7 +5,6 @@
 }
 html {
   font-family: "Montserrat", sans-serif;
-  
 }
 body {
   background: #eee;
@@ -36,14 +35,15 @@ footer {
 footer p {
   color: #ccc;
 }
-.note {
-  background: #fff;
+.note{
+  background: #eeebeb;
   border-radius: 7px;
   box-shadow: 0 2px 5px #ccc;
   padding: 10px;
   width: 240px;
   margin: 16px;
-  float: left;
+ float: left;
+ 
 }
 .note h1 {
   font-size: 1.1em;
@@ -52,7 +52,5 @@ footer p {
 .note p {
   font-size: 1.1em;
   margin-bottom: 10px;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-}
 
+}
